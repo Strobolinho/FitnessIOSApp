@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "dumbbell.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Fitness apppppp !!!")
+            Text("Fitness jetzt gehts los !!!")
         }
         .padding()
     }

@@ -45,5 +45,5 @@ struct ActivityCardView: View {
 }
 
 #Preview {
-    ActivityCardView(activity: Activity(id: 0, title: "Test", subtitle: "Test Untertitel", image: "figure.walk", tintColor: .red, amount: "5674"))
+    ActivityCardView(activity: Activity(title: "Test", subtitle: "Test Untertitel", image: "figure.walk", tintColor: .red, amount: "5674"))
 }
